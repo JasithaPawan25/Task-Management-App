@@ -1,5 +1,6 @@
 # Node.js dependencies
 backend/node_modules/
+backend/hello.txt
 frontend/node_modules/
 npm-debug.log*
 yarn-error.log*
